@@ -50,8 +50,9 @@ class ApiController {
      */
     async getTableWorld({request, response}){
 
-        
+        const dates = new Date().toISOString().slice(0,10)
         const TableWolrd = await DailyCase.query().
+        where('dates',dates).
         orderBy('cases','DESC')
 
         var data = []
