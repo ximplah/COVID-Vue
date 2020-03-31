@@ -2,6 +2,8 @@
 
 - Demo <a href="https://covid.ngaah.id/"> COVID.NGAAH.ID </a>
 
+
+<img src="https://raw.githubusercontent.com/ximplah/COVID-REACT-Screenshoot/master/1.png"></img>
 GET : /api/worldcase () =>
 
             {
