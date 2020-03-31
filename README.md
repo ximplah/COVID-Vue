@@ -4,7 +4,6 @@
 
 
 <img src="https://raw.githubusercontent.com/ximplah/COVID-REACT-Screenshoot/master/1.png"></img>
-<img src="https://raw.githubusercontent.com/ximplah/COVID-REACT-Screenshoot/master/1.png"></img>
 <img src="https://raw.githubusercontent.com/ximplah/COVID-REACT-Screenshoot/master/2.png"></img>
 <img src="https://raw.githubusercontent.com/ximplah/COVID-REACT-Screenshoot/master/3.png"></img>
 <img src="https://raw.githubusercontent.com/ximplah/COVID-REACT-Screenshoot/master/4.png"></img>
