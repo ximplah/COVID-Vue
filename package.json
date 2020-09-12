@@ -32,7 +32,7 @@
     "foreach": "^2.0.5",
     "hchs-vue-charts": "^1.2.8",
     "mysql": "^2.18.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "nuxt": "^2.0.0",
     "vue-chartjs": "^3.5.0",
     "vue-flag-icon": "^1.0.6",
