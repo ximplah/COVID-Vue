@@ -27,7 +27,7 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "adonis-cache": "^0.3.4",
     "adonis-lucid-update-or-create": "^1.0.2",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "cross-env": "^5.2.0",
     "foreach": "^2.0.5",
     "hchs-vue-charts": "^1.2.8",
